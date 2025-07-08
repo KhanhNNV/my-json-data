@@ -1,68 +1,62 @@
 [
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":"STT",
-        "Unnamed: 1":"Tên",
-        "Unnamed: 2":"Trạng thái",
-        "Unnamed: 3":"Gmail"
+        "STT": 1,
+        "Tên": "Hùng",
+        "Trạng thái": "Đã nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     },
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":1,
-        "Unnamed: 1":"Hùng",
-        "Unnamed: 2":"Đã nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
+        "STT": 2,
+        "Tên": "Sơn",
+        "Trạng thái": "Đã nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     },
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":2,
-        "Unnamed: 1":"Sơn",
-        "Unnamed: 2":"Đã nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
+        "STT": 3,
+        "Tên": "Lan",
+        "Trạng thái": "Đã nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     },
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":3,
-        "Unnamed: 1":"Lan",
-        "Unnamed: 2":"Đã nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
+        "STT": 4,
+        "Tên": "Chi",
+        "Trạng thái": "Chưa nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     },
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":4,
-        "Unnamed: 1":"Chi",
-        "Unnamed: 2":"Chưa nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
+        "STT": 5,
+        "Tên": "Nam",
+        "Trạng thái": "Đã nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     },
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":5,
-        "Unnamed: 1":"Nam",
-        "Unnamed: 2":"Đã nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
+        "STT": 6,
+        "Tên": "Huyền",
+        "Trạng thái": "Đã nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     },
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":6,
-        "Unnamed: 1":"Huyền",
-        "Unnamed: 2":"Đã nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
+        "STT": 7,
+        "Tên": "Khánh",
+        "Trạng thái": "Đã nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     },
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":7,
-        "Unnamed: 1":"Khánh",
-        "Unnamed: 2":"Đã nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
+        "STT": 8,
+        "Tên": "Đạt",
+        "Trạng thái": "Đã nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     },
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":8,
-        "Unnamed: 1":"Đạt",
-        "Unnamed: 2":"Đã nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
+        "STT": 9,
+        "Tên": "Như",
+        "Trạng thái": "Chưa nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     },
     {
-        "BẢNG KẾT QUẢ NỘP BÀI":9,
-        "Unnamed: 1":"Như",
-        "Unnamed: 2":"Chưa nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
-    },
-    {
-        "BẢNG KẾT QUẢ NỘP BÀI":10,
-        "Unnamed: 1":"Ngọc",
-        "Unnamed: 2":"Chưa nộp",
-        "Unnamed: 3":"khanhnnv8123@ut.edu.vn"
+        "STT": 10,
+        "Tên": "Ngọc",
+        "Trạng thái": "Chưa nộp",
+        "Gmail": "khanhnnv8123@ut.edu.vn"
     }
 ]
